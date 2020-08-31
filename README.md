@@ -1,2 +1,2 @@
 # Jeevitha Portfolio
-https://jeevitha.netlify.app/
+https://jeevitha.netlify.app/ - automatic!
