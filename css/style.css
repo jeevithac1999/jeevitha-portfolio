@@ -711,6 +711,9 @@ h4.about-tit {
 
 /* //tabs */
 /* //resume */
+#resume{
+    height: 600px;
+}
 
 /* middle content */
 .w3ls-bnrbtm {
